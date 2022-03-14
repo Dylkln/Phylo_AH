@@ -53,7 +53,7 @@ Avec les arguments suivants:
 
 **OPTIONNELS**
 - *NREP* : Nombre de matrice de réplication de bootstrap qui seront générées (par défaut 100). 
-- *WINDOW_SIZE* : La taille de fenêtre désirée (par déaut 1000). 
+- *WINDOW_SIZE* : La taille de fenêtre désirée (par défaut 1000). 
 - *STEP* :  Le pas de la fenêtre désirée (par défaut 100).
 - *THREADS* : Le nombre de Coeurs que le programme peut utiliser (par défaut 1).
 
