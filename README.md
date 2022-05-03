@@ -62,3 +62,6 @@ Avec les arguments suivants:
 ```
 python phylo.py -f ../data/exemple.fasta -n 10 -ws 1000 -s 100 -t 1
 ```
+## Lien vers la publication et le programme fini
+
+https://github.com/OpaleRambaud/GB_barcodes_project
